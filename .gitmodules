@@ -1,0 +1,6 @@
+[submodule "Icecreamtrucktrackerbackend"]
+	path = Icecreamtrucktrackerbackend
+	url = https://github.com/ernest1027/Icecreamtrucktrackerbackend.git
+[submodule "Icecreamtrucktrackerfrontend"]
+	path = Icecreamtrucktrackerfrontend
+	url = https://github.com/ernest1027/Icecreamtrucktrackerfrontend.git

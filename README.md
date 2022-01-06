@@ -1,4 +1,6 @@
 # Ice Cream Truck Tracker App
+[![YOUTUBE VIDEO](https://img.youtube.com/vi/rAO38sHuLUU/0.jpg)](https://www.youtube.com/watch?v=rAO38sHuLUU)
+<br></br>
 A full stack ice cream truck tracker mobile app made with flutter, node.js, typescript, mongodb and express. 
 Features include:
 <ul>
